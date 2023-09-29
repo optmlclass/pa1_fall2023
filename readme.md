@@ -7,7 +7,7 @@ before diving in!
 ## Submission
 
 Please submit your assignment by emailing a zip or tar file containing all source code to
-optmlclass.spring.YYYY+PA1@gmail.com. Make sure to incude your name and PA1 in the subject line.
+optmlclass+fall2023@gmail.com. Make sure to incude your name and PA1 in the subject line.
 
 ## Instructions
 
