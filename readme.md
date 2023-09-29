@@ -1,4 +1,5 @@
 # Programming  Assignment 1: Automatic Differentation
+Due: **11:59pm October 13th 2023**
 
 Note: this assignment is complicated! Do not start it at the last minute! You may
 want to read over the code to get an understanding of what you should be doing
